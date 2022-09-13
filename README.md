@@ -5,7 +5,9 @@
 Sou um desenvolvedor front-end formado em Sistemas de Informação na (UFRPE/UAST) :books:, atualmente estou utilizando angular nos meus projetos. Fã e tenho experiência em Ciência de dados, especialmente em Sistemas de Apoio à Decisão.
 
 <div align="center"> <h3>Atualmente estou estudando:</h3> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" width="80" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="40" height="40" />   <img src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+          " width="80" height="40" />
           
 </div>
 
