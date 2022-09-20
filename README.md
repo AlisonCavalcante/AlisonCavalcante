@@ -7,6 +7,8 @@ Sou um desenvolvedor front-end formado em Sistemas de Informação na (UFRPE/UAS
 <div align="center"> <h3>Atualmente estou estudando:</h3> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="40" height="40" />   
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="80" height="40" />
+          
           
 </div>
 
